@@ -9,19 +9,19 @@ class Contact extends React.Component {
         just talk about the latest episode of Black Mirror. If there's coffee
         involved, even better. Pick your poison below.</p>
         <a href="mailto:swallowdeanna@gmail.com">
-          <span class="fas fa-envelope">Email</span>
+          <span className="fas fa-envelope">Email</span>
         </a>
         <a href="https://twitter.com/deannathedev" target="_blank"
         rel="noopener noreferrer">
-          <span class="fab fa-twitter">Twitter</span>
+          <span className="fab fa-twitter">Twitter</span>
         </a>
         <a href="https://github.com/deannaswallow" target="_blank"
         rel="noopener noreferrer">
-          <span class="fab fa-github">GitHub</span>
+          <span className="fab fa-github">GitHub</span>
         </a>
         <a href="https://www.linkedin.com/in/deanna-swallow/" target="_blank"
         rel="noopener noreferrer">
-          <span class="fab fa-linkedin">LinkedIn</span>
+          <span className="fab fa-linkedin">LinkedIn</span>
         </a>
       </div>
     );
