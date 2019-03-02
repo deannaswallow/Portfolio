@@ -3,6 +3,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: #dae8df;
+  color: #424744;
 }
 
 html {
@@ -15,4 +16,9 @@ html {
 
 .name {
   text-align: left;
+}
+
+.contact a, .header a {
+  text-decoration: none;
+  color: #2e3833;
 }

@@ -19,8 +19,8 @@ class About extends React.Component {
         <p>I've dabbled in a lot of things trying to find my place in the
         world. I got a degree in political science, I tried my hand at real
         estate, and a bunch of other things to make sure bills got paid.
-        However, I always drift back to technology, so I decided to dive in.
-        I started with a few classes in college, then attempted a boot camp,
+        However, I have always drifted back to technology, so I decided to dive
+        in. I started with a few classes in college, then attempted a boot camp,
         then I finally decided to go my own way. <i>Cue "Go Your Own Way" from
         Fleetwood Mac</i>.</p>
         <p>Outside of work, I do a little bit of everything. I love reading,
@@ -30,12 +30,12 @@ class About extends React.Component {
         <h2>Coffee!</h2>
         <p>I am one of those freaks who drinks coffee all day long. I could
         probably make some terrible joke about not getting coffee in the morning,
-        but haven't we all heard enough of those? But you should know that I am
-        chock full of bad jokes. I've been around my husband too long...</p>
+        but haven't we all heard enough of those? But you should know that I
+        am chock full of bad jokes. I've been around my husband too long...</p>
         <h2>Last But Not Least, Cats!</h2>
         <p>You know that person who has too much cat stuff in their house, always
-        has cat fur on their clothes, and you suspect (but can't prove) they have
-        entirely too many cats of their own? That would be me. I am that person.
+        has cat fur on their clothes, and you suspect (but can't prove) that they
+        have entirely too many cats of their own? That would be me. I am that person.
         </p>
       </div>
     );
