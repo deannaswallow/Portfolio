@@ -10,7 +10,7 @@ class About extends React.Component {
           into:</p>
           <ul>
             <li>Node.js</li>
-            <li>React Native</li>
+            <li>GraphQL</li>
             <li>More Python! Specifically, Python 3</li>
             <li>This list could go on forever, but know that I am endlessly
             curious!</li>
@@ -27,12 +27,12 @@ class About extends React.Component {
         gaming, cooking, and taking a drive to random places just to see new
         things. I'm always looking for new ways to organize my life and things,
         and ways to be more efficient.</p>
-        <h2>Coffee!</h2>
+        <h1>Coffee!</h1>
         <p>I am one of those freaks who drinks coffee all day long. I could
         probably make some terrible joke about not getting coffee in the morning,
         but haven't we all heard enough of those? But you should know that I
         am chock full of bad jokes. I've been around my husband too long...</p>
-        <h2>Last But Not Least, Cats!</h2>
+        <h1>Last But Not Least, Cats!</h1>
         <p>You know that person who has too much cat stuff in their house, always
         has cat fur on their clothes, and you suspect (but can't prove) that they
         have entirely too many cats of their own? That would be me. I am that person.
