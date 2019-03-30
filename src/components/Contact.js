@@ -7,7 +7,7 @@ class Contact extends React.Component {
         <h1>Let's Chat!</h1>
         <p>I love getting to know new people, discuss work opportunities, or
         just talk about the latest episode of Black Mirror. If there's coffee
-        involved, even better. Pick your poison below.</p>
+        involved, even better. Or GIFs. I love GIFs. Pick your poison below.</p>
         <a href="mailto:swallowdeanna@gmail.com" target="_blank"
         rel="noopener noreferrer">
           <span className="fas fa-envelope"></span>

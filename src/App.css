@@ -15,16 +15,21 @@ nav {
   display: grid;
   grid-gap: 20px;
   grid-template-columns: repeat(4, 1fr);
-  border-bottom: 2px solid;
+  border-bottom: 2px solid #939381;
   padding: 5px 0 5px 0;
+}
+
+img {
+  display: block;
+  border-radius: 5px;
+}
+
+.cotd-pic {
+  box-shadow: 5px 5px 5px 2px rgba(40, 69, 51, 0.75);
 }
 
 .nav-link {
   padding-left: 5px;
-}
-
-.cat-pic {
-  display: block;
 }
 
 .contact a {

@@ -11,27 +11,27 @@ class Projects extends React.Component {
         click here</a></strong> to see the code for it.</p>
           <h2 className="project-title">Catch of the Day</h2>
           <strong><a href="https://github.com/deannaswallow/cotdv2"
-          target="_blank" rel="noopener noreferrer">See the code
+          target="_blank" rel="noopener noreferrer"><img className="cotd-pic"
+          src="/images/CotDPic.png" alt="Screenshot of header" /><br />See the code
           here.</a></strong>
-          <p className="project-desc">This was built as part of a tutorial
-          series covering React principles. It incorporates state, props,
-          components, and routing.</p>
+          <p className="project-desc">This is a project I built during my quest to learn
+          React. It incorporates state, props, components, and routing.</p>
           <h2 className="project-title">BlocJams</h2>
-          <strong><a href="https://github.com/deannaswallow/BlocJamsReact"
-          target="_blank" rel="noopener noreferrer">See the code for the
-          React version here.</a></strong>
-          <br />
           <strong><a href="https://github.com/deannaswallow/Bloc-Jams-AngularJS"
-          target="_blank" rel="noopener noreferrer">See the code for the
-          Angular version here.</a></strong>
+          target="_blank" rel="noopener noreferrer">See the code for the Angular
+          version here.</a></strong>
+          <br />
+          <strong><a href="https://github.com/deannaswallow/BlocJamsReact"
+          target="_blank" rel="noopener noreferrer">See the code for the React
+          version here.</a></strong>
           <br />
           <strong><a href="https://github.com/deannaswallow/bloc-jams-jquery"
           target="_blank" rel="noopener noreferrer">See the code for the jQuery
           version here.</a></strong>
           <p className="project-desc">There are actually three versions of this.
           I originally built it with jQuery, then Angular, and then React. All
-          three were done while I was in a development boot camp. It's a basic
-          music player app using some free music files that are hosted online.</p>
+          three were done while I was in a development boot camp. It's a music
+          player app using some free music files that are hosted online.</p>
           <h2 className="project-title">To Do App</h2>
           <strong><a href="https://github.com/deannaswallow/ReactToDo"
           target="_blank" rel="noopener noreferrer">See the code for the React

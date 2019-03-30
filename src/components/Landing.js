@@ -5,7 +5,7 @@ class Landing extends React.Component {
     return (
       <div className="landing">
         <h1>Hello!</h1>
-        <p>My name is Deanna, and I'm a developer. My goal in life is
+        <p>My name is Deanna, and I'm a web developer. My goal in life is
         to make things that help people. If I can have fun while doing
         it, even better. Welcome!</p>
         <br />
