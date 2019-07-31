@@ -26,7 +26,7 @@ class Projects extends React.Component {
             rel="noopener noreferrer"
           >
             <img
-              className="mario-pic"
+              className="project-pic"
               src="/images/MarioKart.png"
               alt="Screenshot of mario kart project"
             />
@@ -57,7 +57,7 @@ class Projects extends React.Component {
             rel="noopener noreferrer"
           >
             <img
-              className="cotd-pic"
+              className="project-pic"
               src="/images/CotDPic.png"
               alt="Screenshot of header"
             />
