@@ -7,8 +7,8 @@ html {
 body {
   font-family: "Montserrat", sans-serif;
   font-size: 1.2em;
-  background-color: #faf5ef;
-  color: #672f2f;
+  background-color: #e4f9f5;
+  color: #40514e;
   padding: 0 20px 0 20px;
 }
 
@@ -16,7 +16,7 @@ nav {
   display: grid;
   grid-gap: 20px;
   grid-template-columns: repeat(4, 1fr);
-  border-bottom: 2px solid #99b19c;
+  border-bottom: 2px solid #11999e;
   padding: 5px 0 5px 0;
 }
 
@@ -30,7 +30,7 @@ img {
 }
 
 h1 {
-  text-shadow: 1px 1px 1px #d7d1c9;
+  text-shadow: 1px 1px 1px #11999e;
   text-align: center;
 }
 
@@ -40,19 +40,35 @@ ul {
 
 a {
   text-decoration: none;
-  color: #672f2f;
+  color: #40514e;
 }
 
 a.nav-link {
   text-align: center;
 }
 
+.cat-pic {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.projects {
+  text-align: center;
+}
+
 .project-pic {
-  box-shadow: 5px 5px 5px 2px #d7d1c9;
+  box-shadow: 5px 5px 5px 2px #8bbabb;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .project-pic:hover {
-  box-shadow: 5px 5px 5px 2px #99b19c;
+  box-shadow: 5px 5px 5px 2px #11999e;
+}
+
+.portfolio {
+  font-size: 0.9em;
+  font-style: italic;
 }
 
 .nav-link {
@@ -64,6 +80,10 @@ a.nav-link {
 }
 
 .project-title {
-  border-bottom: 1px solid #99b19c;
-  text-shadow: 1px 1px 1px #d7d1c9;
+  border-bottom: 1px solid #11999e;
+  text-shadow: 1px 1px 1px #11999e;
+}
+
+.contact-links {
+  text-align: center;
 }
