@@ -52,7 +52,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Status
 
-Project is: _in progress_
+Project is: _in progress_ <br>
 I am working on making this more mobile-friendly.
 
 ## Contact
