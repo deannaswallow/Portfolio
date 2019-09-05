@@ -52,6 +52,18 @@ class Contact extends React.Component {
             </a>
           </div>
         </div>
+        <p className="row resume">
+          <div className="col-sm-12 text-center mt-4">
+            <a
+              href="https://resume.creddle.io/resume/3ujrbmdbob6"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span className="fas fa-file-alt" />
+              <span className="ml-2">Résumé</span>
+            </a>
+          </div>
+        </p>
       </div>
     );
   }
