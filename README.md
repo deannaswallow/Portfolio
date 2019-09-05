@@ -21,6 +21,7 @@ This project is a way to show my best work thus far, first and foremost. I also 
 - react-dom - version 16.8.2
 - react-router-dom - version 4.3.1
 - react-scripts - version 2.1.5
+- Bootstrap - version 4.3.1
 - HTML5, CSS3, JavaScript
 
 ## Setup
@@ -47,7 +48,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 ## Status
 
 Project is: _in progress_ <br>
-I am working on making this more mobile-friendly.
+I am working on improving the layout of the project information.
 
 ## Contact
 
